@@ -8,7 +8,7 @@ In order to setup tests, navigate to **zest_test** folder.
 
 Here you should see the following:
 
-```cmd
+```
 - calls
 -- sample.yaml
 - payloads
