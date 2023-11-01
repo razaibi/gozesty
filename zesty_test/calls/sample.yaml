@@ -1,0 +1,10 @@
+endpoints:
+  - name: "Sample"
+    endpoint_url: "https://jsonip.com/"
+    request_method: "GET"
+    request_headers:
+      Content: "en-US"
+    request_body: ""
+    expected_conditions:
+      - expected_status: 200
+        expected_response: "sample.json"
